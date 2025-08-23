@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap');
+
+body
+{
+    text-align: center;
+    cursor: url('New\ Piskel\ 1.png'), auto;
+    background-color: rgb(2, 2, 70);
+    color:white;
+font-family: "Edu NSW ACT Cursive", cursive;
+}
+
+img{
+    border-radius: 7%
+}
