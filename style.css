@@ -6,10 +6,11 @@ body
     cursor: url('New\ Piskel\ 1.png'), auto;
     background-color: rgb(2, 2, 70);
     color:white;
-font-family: "Edu NSW ACT Cursive", cursive;
+font-family: "Edu NSW ACT Cursive": cursive;
 }
 
 img{
     border-radius: 5%
 }
+
 
